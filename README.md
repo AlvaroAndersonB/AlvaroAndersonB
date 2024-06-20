@@ -1,2 +1,3 @@
-#Álvaro Anderson
-Dev JAVA|JS|Python
+<h1>Álvaro Anderson</h1>
+<br>
+<b>Dev JAVA | JS | Python</b>
